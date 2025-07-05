@@ -3,3 +3,4 @@
 ## Learned about:
 - Importance of state management in Flutter
 - Simple state management with setState
+- Introduction to Provider package
